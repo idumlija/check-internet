@@ -1,5 +1,0 @@
-#!/bin/bash
-
-INTERNET_STATUS="UNKNOWN"
-TIMESTAMP=`date +%s`
-echo $TIMESTAMP
